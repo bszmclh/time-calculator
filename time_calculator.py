@@ -53,6 +53,3 @@ def add_time(start, duration, day = None):
                 break
 
     return "".join(result)
-
-
-print(add_time("11:55 AM", "3:12"))
